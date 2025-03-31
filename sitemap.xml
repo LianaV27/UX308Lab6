@@ -1,0 +1,28 @@
+<?xml?>
+<urlset>
+    <url>
+        <loc>
+            http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/menu/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/menu/milk-tea/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/menu/fruit-tea/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/lianavaldez/
+        </loc>
+    </url>
+</urlset>
